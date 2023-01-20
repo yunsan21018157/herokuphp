@@ -1,0 +1,14 @@
+{
+   "name": "vendor_name/heroku",
+   "description": "description",
+   "minimum-stability": "stable",
+   "license": "proprietary",
+   "authors": [
+     {
+       "name": "Sze Yunsan",
+       "email": "21018157@rp.edu.sg"
+     }
+   ],
+   "require": {
+   }
+ }
